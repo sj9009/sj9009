@@ -30,9 +30,8 @@
   <img align="left" alt="VisualParadigm" width="40px" src="https://camo.githubusercontent.com/adf3e91290a5b76dd3e45b9f8354979115d3e459b40ff4a6a4e404366dfe841c/68747470733a2f2f646c322e6d61637570646174652e636f6d2f696d616765732f69636f6e733235362f31363934352e706e673f643d31353139373731303331" />
   <img align="left" alt="Archimate" width="35px" src="https://avatars.githubusercontent.com/u/7965556?s=200&v=4" />
   <img align="left" alt="Matlab" width="35px" src="https://upload.wikimedia.org/wikipedia/commons/2/21/Matlab_Logo.png" />
-    <img align="left" alt="GCP" width="35px" src="https://www.vectorlogo.zone/logos/google_cloud/google_cloud-icon.svg" />
-
-  <img align="left" alt="Selenium" width="40px" src="https://raw.githubusercontent.com/detain/svg-logos/780f25886640cef088af994181646db2f6b1a3f8/svg/selenium-logo.svg" />
+<!--   <img align="left" alt="GCP" width="35px" src="https://www.vectorlogo.zone/logos/google_cloud/google_cloud-icon.svg" />
+  <img align="left" alt="Selenium" width="40px" src="https://raw.githubusercontent.com/detain/svg-logos/780f25886640cef088af994181646db2f6b1a3f8/svg/selenium-logo.svg" /> -->
 </p>
 
 <br />
