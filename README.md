@@ -22,6 +22,7 @@
   <img align="left" alt="Java" width="30px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" />
   <img align="left" alt="AdobeXD" width="30px" src="https://cdn.worldvectorlogo.com/logos/adobe-xd.svg"/>
   <img align="left" alt="Figma" width="30px" src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" />
+  <img align="left" alt="VSCode" width="30px" src="https://upload.vectorlogo.zone/logos/visualstudio_code/images/0aea25bb-27bb-427f-8d65-f999bf0cba67.svg" />
   <img align="left" alt="React" width="30px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png" />
   <img align="left" alt="Bootstrap" width="30px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" />
 <!--   <img align="left" alt="Sass" width="30px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg" /> -->
@@ -32,8 +33,7 @@
   <img align="left" alt="Matlab" width="30px" src="https://upload.wikimedia.org/wikipedia/commons/2/21/Matlab_Logo.png" />
   <img align="left" alt="GCP" width="30px" src="https://www.vectorlogo.zone/logos/google_cloud/google_cloud-icon.svg" />
   <img align="left" alt="Selenium" width="30px" src="https://raw.githubusercontent.com/detain/svg-logos/780f25886640cef088af994181646db2f6b1a3f8/svg/selenium-logo.svg" />
-  <img align="left" alt="VSCode" width="30px" src="https://upload.vectorlogo.zone/logos/visualstudio_code/images/0aea25bb-27bb-427f-8d65-f999bf0cba67.svg" />
-  <img align="left" alt="Overleaf" width="30px" src="https://raw.githubusercontent.com/edent/SuperTinyIcons/9f13284dfaa5ec877e42fff53f0bc6ba6ff82953/images/svg/overleaf.svg" />
+<!--   <img align="left" alt="Overleaf" width="30px" src="https://raw.githubusercontent.com/edent/SuperTinyIcons/9f13284dfaa5ec877e42fff53f0bc6ba6ff82953/images/svg/overleaf.svg" /> -->
 </p>
 
 <br />
