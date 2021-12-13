@@ -1,22 +1,45 @@
-<h1 align="center">Hi 👋, I'm Saksham Jain</h1>
-<h3 align="center">A Frontend Developer , UI / UX Designer and Product Enthusiast</h3>
+<h1 align="left">Hi, I'm Saksham Jain <img src="https://user-images.githubusercontent.com/1303154/88677602-1635ba80-d120-11ea-84d8-d263ba5fc3c0.gif" width="28px" alt="hi"> </h1>
+<p align="left">A Frontend Developer , UI / UX Designer and Product Enthusiast</p>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=sj9009&label=Profile%20views&color=0e75b6&style=flat" alt="sj9009" /> </p>
+# [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-0077B5?style=flat&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/saksham9009/)](https://www.linkedin.com/in/saksham9009/) [![Github Badge](https://img.shields.io/badge/-Github-242A2D?style=flat&logo=Github&logoColor=white&link=https://github.com/sj9009/)](https://github.com/sj9009/) [![Behance Badge](https://img.shields.io/badge/-Behance-053EFF?style=flat&labelColor=053EFF&logo=behance&link=https://www.behance.net/sakshamjain9009)](https://www.behance.net/sakshamjain9009) [![Codechef Badge](https://img.shields.io/badge/-CodeChef-242A2D?style=flat&logo=Codechef&link=https://www.codechef.com/users/sj9009/)](https://www.codechef.com/users/sj9009/) [![Mail Badge](https://img.shields.io/badge/-Gmail-c0392b?style=flat&labelColor=c0392b&logo=gmail&logoColor=white)](mailto:sakshamjain9009@gmail.com)  <img src="https://komarev.com/ghpvc/?username=sj9009&label=Profile%20views&color=0e75b6&style=flat" alt="sj9009" />
 
-- 📫 How to reach me **sakshamjain9009@gmail.com**
+- 👨🏻‍🎓 B.Tech in Computer Science and Engineering from [IIIT Vadodara](http://iiitvadodara.ac.in/)
+- 💻 Incoming Business Technology Analyst @Deloitte USI
+- ⚡ Fun fact: I love Sketching ,Cricket and Anime.
+- 📫 How to reach me :*sakshamjain9009@gmail.com*
+- 📄 Experiences and Projects - [My Resume](https://drive.google.com/file/d/1bzcq7csIbjHRPxmgCKO1Uaz3EWHLR-Hr/view?usp=sharing)
+- 😄 Looking for Internship oppurtunities in Front End , UI/UX , Product Design & Development.
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/saksham9009" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="saksham9009" height="30" width="40" /></a>
-<a href="https://www.behance.net/sakshamjain9009" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/behance.svg" alt="sakshamjain9009" height="30" width="40" /></a>
-<a href="https://www.codechef.com/users/sj9009" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/codechef.svg" alt="sj9009" height="30" width="40" /></a>
-<a href="https://www.hackerrank.com/sakshamjain9009" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="sakshamjain9009" height="30" width="40" /></a>
-<a href="https://www.leetcode.com/sakshamjain9009" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="sakshamjain9009" height="30" width="40" /></a>
+### Top Skills : <br/> <br/> ![Adobe XD](https://img.shields.io/badge/AdobeXD-323330?style=for-the-badge&logo=adobexd&logoColor=pastelpink) ![HTML](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white) ![CSS](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white) ![JavaScript](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E) ![Java](https://img.shields.io/badge/Java-323330?style=for-the-badge&logo=java) ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+
+
+<h3 align="left">All Techlologies & Tools :</h3>
+<p align="left"> 
+  <img align="left" alt="HTML5" width="35px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg"/>
+  <img align="left" alt="CSS3" width="35px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg"/>
+  <img align="left" alt="C" width="35px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" />
+  <img align="left" alt="Java" width="35px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" />
+  <img align="left" alt="JavaScript" width="35px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" />
+  <img align="left" alt="AdobeXD" width="35px" src="https://cdn.worldvectorlogo.com/logos/adobe-xd.svg"/>
+  <img align="left" alt="Figma" width="35px" src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" />
+  <img align="left" alt="React" width="35px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png" />
+  <img align="left" alt="Bootstrap" width="35px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" />
+  <img align="left" alt="Sass" width="35px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg" />
+  <img align="left" alt="MySQL" width="35px" src="https://www.vectorlogo.zone/logos/mysql/mysql-icon.svg" />
+  <img align="left" alt="R" width="35px" src="https://www.vectorlogo.zone/logos/r-project/r-project-icon.svg" />
+  <img align="left" alt="VisualParadigm" width="40px" src="https://camo.githubusercontent.com/adf3e91290a5b76dd3e45b9f8354979115d3e459b40ff4a6a4e404366dfe841c/68747470733a2f2f646c322e6d61637570646174652e636f6d2f696d616765732f69636f6e733235362f31363934352e706e673f643d31353139373731303331" />
+  <img align="left" alt="Archimate" width="35px" src="https://avatars.githubusercontent.com/u/7965556?s=200&v=4" />
+  <img align="left" alt="Matlab" width="35px" src="https://upload.wikimedia.org/wikipedia/commons/2/21/Matlab_Logo.png" />
+    <img align="left" alt="GCP" width="35px" src="https://www.vectorlogo.zone/logos/google_cloud/google_cloud-icon.svg" />
+
+  <img align="left" alt="Selenium" width="40px" src="https://raw.githubusercontent.com/detain/svg-logos/780f25886640cef088af994181646db2f6b1a3f8/svg/selenium-logo.svg" />
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a> <a href="https://cloud.google.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/google_cloud/google_cloud-icon.svg" alt="gcp" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.mathworks.com/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/2/21/Matlab_Logo.png" alt="matlab" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://sass-lang.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg" alt="sass" width="40" height="40"/> </a> <a href="https://www.selenium.dev" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/detain/svg-logos/780f25886640cef088af994181646db2f6b1a3f8/svg/selenium-logo.svg" alt="selenium" width="40" height="40"/> </a> <a href="https://www.adobe.com/products/xd.html" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/adobe-xd.svg" alt="xd" width="40" height="40"/> </a> </p>
+<br />
+<p align="center">
+  <br />
+  <br />
+  <img width="350px" align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sj9009&show_icons=true&locale=en&layout=compact&theme=radical" />
+  <img width="410px" align="left" src="https://github-readme-stats.vercel.app/api?username=sj9009&&show_icons=true&theme=radical" alt="My Github Stats">
+</p>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=sj9009&show_icons=true&locale=en&layout=compact" alt="sj9009" /></p>
-
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=sj9009&show_icons=true&locale=en" alt="sj9009" /></p>
