@@ -1,14 +1,15 @@
 <h1 align="left">Hi, I'm Saksham Jain <img src="https://user-images.githubusercontent.com/1303154/88677602-1635ba80-d120-11ea-84d8-d263ba5fc3c0.gif" width="28px" alt="hi"> </h1>
-<p align="left">A Frontend Developer , UI / UX Designer and Product Enthusiast</p>
+<p align="left">I am a Frontend Web Developer , UI / UX Designer and Product Enthusiast.</br>
+<b>I'm actively looking for Internship oppurtunities in UI/UX , Product Design & Software Development domain.</b></p>
 
-# [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-0077B5?style=flat&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/saksham9009/)](https://www.linkedin.com/in/saksham9009/) [![Github Badge](https://img.shields.io/badge/-Github-242A2D?style=flat&logo=Github&logoColor=white&link=https://github.com/sj9009/)](https://github.com/sj9009/) [![Behance Badge](https://img.shields.io/badge/-Behance-053EFF?style=flat&labelColor=053EFF&logo=behance&link=https://www.behance.net/sakshamjain9009)](https://www.behance.net/sakshamjain9009) [![Codechef Badge](https://img.shields.io/badge/-CodeChef-242A2D?style=flat&logo=Codechef&link=https://www.codechef.com/users/sj9009/)](https://www.codechef.com/users/sj9009/) [![Mail Badge](https://img.shields.io/badge/-Gmail-c0392b?style=flat&labelColor=c0392b&logo=gmail&logoColor=white)](mailto:sakshamjain9009@gmail.com)  <img src="https://komarev.com/ghpvc/?username=sj9009&label=Profile%20views&color=0e75b6&style=flat" alt="sj9009" />
+### Connect with me :<br/> <br/> [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-0077B5?style=flat&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/saksham9009/)](https://www.linkedin.com/in/saksham9009/) [![Github Badge](https://img.shields.io/badge/-Github-242A2D?style=flat&logo=Github&logoColor=white&link=https://github.com/sj9009/)](https://github.com/sj9009/) [![Behance Badge](https://img.shields.io/badge/-Behance-053EFF?style=flat&labelColor=053EFF&logo=behance&link=https://www.behance.net/sakshamjain9009)](https://www.behance.net/sakshamjain9009) [![Codechef Badge](https://img.shields.io/badge/-CodeChef-242A2D?style=flat&logo=Codechef&link=https://www.codechef.com/users/sj9009/)](https://www.codechef.com/users/sj9009/) [![Mail Badge](https://img.shields.io/badge/-Gmail-c0392b?style=flat&labelColor=c0392b&logo=gmail&logoColor=white)](mailto:sakshamjain9009@gmail.com)  <img src="https://komarev.com/ghpvc/?username=sj9009&label=Profile%20views&color=0e75b6&style=flat" alt="sj9009" />
 
 - 👨🏻‍🎓 B.Tech in Computer Science and Engineering from [IIIT Vadodara](http://iiitvadodara.ac.in/)
-- 💻 Incoming Business Technology Analyst @Deloitte USI
-- ⚡ Fun fact: I love Sketching ,Cricket and Anime.
+- 💻 Incoming Technology Analyst @Deloitte USI
+- 😄 I do competitive programming using Java.
+- ⚡ Fun fact: I love Sketching , Cricket and watching Anime.
 - 📫 How to reach me :*sakshamjain9009@gmail.com*
 - 📄 Experiences and Projects - [My Resume](https://drive.google.com/file/d/1bzcq7csIbjHRPxmgCKO1Uaz3EWHLR-Hr/view?usp=sharing)
-- 😄 Looking for Internship oppurtunities in Front End , UI/UX , Product Design & Development.
 
 ### Top Skills : <br/> <br/> ![Adobe XD](https://img.shields.io/badge/AdobeXD-323330?style=for-the-badge&logo=adobexd&logoColor=pastelpink) ![HTML](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white) ![CSS](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white) ![JavaScript](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E) ![Java](https://img.shields.io/badge/Java-323330?style=for-the-badge&logo=java) ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
 
