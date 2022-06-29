@@ -1,4 +1,4 @@
-<h1 align="left">Hi, I'm Saksham Jain <img src="https://user-images.githubusercontent.com/1303154/88677602-1635ba80-d120-11ea-84d8-d263ba5fc3c0.gif" width="28px" alt="hi"> </h1>
+<h1 align="left">Hi, I'm Saksham Jain </h1>
 <p align="left">I am a Frontend Web Developer , UI / UX Designer and Product Enthusiast.</br>
 <b>I'm actively looking for Internship oppurtunities in Software Development & Product Design.</b></p>
 
@@ -6,9 +6,8 @@
 
 - 👨🏻‍🎓 B.Tech in Computer Science and Engineering from [IIIT Vadodara](http://iiitvadodara.ac.in/)
 - 💻 Incoming Technology Analyst @Deloitte USI
-- 😄 I do competitive programming using Java.
-- ⚡ Fun fact: I love Sketching , Cricket and watching Anime.
-- 📫 How to reach me :*sakshamjain9009@gmail.com*
+- 😄 Competitive Programming - Java.
+- 📫 How to reach me  *sakshamjain9009@gmail.com*
 - 📄 Experiences and Projects - [My Resume](https://drive.google.com/file/d/1bzcq7csIbjHRPxmgCKO1Uaz3EWHLR-Hr/view?usp=sharing)
 
 ### Top Skills : <br/> <br/> ![Adobe XD](https://img.shields.io/badge/AdobeXD-323330?style=for-the-badge&logo=adobexd&logoColor=pastelpink) ![HTML](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white) ![CSS](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white) ![JavaScript](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E) ![Java](https://img.shields.io/badge/Java-323330?style=for-the-badge&logo=java) ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
